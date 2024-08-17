@@ -1,0 +1,12 @@
+C:\Users\misha\source\repos\Cypher\Cypher\bin\Debug\Cypher.exe.config
+C:\Users\misha\source\repos\Cypher\Cypher\bin\Debug\Cypher.exe
+C:\Users\misha\source\repos\Cypher\Cypher\bin\Debug\Cypher.pdb
+C:\Users\misha\source\repos\Cypher\Cypher\obj\Debug\Cypher.csproj.AssemblyReference.cache
+C:\Users\misha\source\repos\Cypher\Cypher\obj\Debug\Cypher.Coder.resources
+C:\Users\misha\source\repos\Cypher\Cypher\obj\Debug\Cypher.StartForm.resources
+C:\Users\misha\source\repos\Cypher\Cypher\obj\Debug\Cypher.Properties.Resources.resources
+C:\Users\misha\source\repos\Cypher\Cypher\obj\Debug\Cypher.csproj.GenerateResource.cache
+C:\Users\misha\source\repos\Cypher\Cypher\obj\Debug\Cypher.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\Cypher\Cypher\obj\Debug\Cypher.exe
+C:\Users\misha\source\repos\Cypher\Cypher\obj\Debug\Cypher.pdb
+C:\Users\misha\source\repos\Cypher\Cypher\obj\Debug\Cypher.Decoder.resources
