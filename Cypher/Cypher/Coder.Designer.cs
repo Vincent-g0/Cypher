@@ -107,9 +107,9 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(244, 177);
             this.label5.TabIndex = 7;
-            this.label5.Text = "The cipher uses an alphabet to function. Essentially, the letters in a message ar" +
-    "e \'mirrored\' in the alphabet, so that \'a\' becomes \'z\', and \'b\' becomes \'y\', and " +
-    "so forth.";
+            this.label5.Text = "The cipher usar\r\n an alphabet to function. Essentially, the letters in a message " +
+    "are \'mirrored\' in the alphabet, so that \'a\' becomes \'z\', and \'b\' becomes \'y\', an" +
+    "d so forth.";
             this.label5.UseCompatibleTextRendering = true;
             // 
             // tabPage2

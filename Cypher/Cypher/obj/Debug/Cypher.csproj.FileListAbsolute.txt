@@ -10,3 +10,16 @@ C:\Users\misha\source\repos\Cypher\Cypher\obj\Debug\Cypher.csproj.CoreCompileInp
 C:\Users\misha\source\repos\Cypher\Cypher\obj\Debug\Cypher.exe
 C:\Users\misha\source\repos\Cypher\Cypher\obj\Debug\Cypher.pdb
 C:\Users\misha\source\repos\Cypher\Cypher\obj\Debug\Cypher.Decoder.resources
+D:\User\Downloads\Cypher-main\Cypher\Cypher\bin\Debug\Cypher.exe.config
+D:\User\Downloads\Cypher-main\Cypher\Cypher\bin\Debug\Cypher.exe
+D:\User\Downloads\Cypher-main\Cypher\Cypher\bin\Debug\Cypher.pdb
+D:\User\Downloads\Cypher-main\Cypher\Cypher\obj\Debug\Cypher.csproj.AssemblyReference.cache
+D:\User\Downloads\Cypher-main\Cypher\Cypher\obj\Debug\Cypher.csproj.SuggestedBindingRedirects.cache
+D:\User\Downloads\Cypher-main\Cypher\Cypher\obj\Debug\Cypher.Coder.resources
+D:\User\Downloads\Cypher-main\Cypher\Cypher\obj\Debug\Cypher.Decoder.resources
+D:\User\Downloads\Cypher-main\Cypher\Cypher\obj\Debug\Cypher.StartForm.resources
+D:\User\Downloads\Cypher-main\Cypher\Cypher\obj\Debug\Cypher.Properties.Resources.resources
+D:\User\Downloads\Cypher-main\Cypher\Cypher\obj\Debug\Cypher.csproj.GenerateResource.cache
+D:\User\Downloads\Cypher-main\Cypher\Cypher\obj\Debug\Cypher.csproj.CoreCompileInputs.cache
+D:\User\Downloads\Cypher-main\Cypher\Cypher\obj\Debug\Cypher.exe
+D:\User\Downloads\Cypher-main\Cypher\Cypher\obj\Debug\Cypher.pdb
